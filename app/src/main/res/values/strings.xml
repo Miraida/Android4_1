@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android4_1</string>
+    <string name="text">Количество нажатий:</string>
+    <string name="send">send</string>
+    <string name="enter_the_text">Введите текст</string>
+    <string name="empty_err">Поле не может быть пустым</string>
+    <string name="second_activity">SecondActivity</string>
+    <string name="main_activity">MainActivity</string>
+</resources>
